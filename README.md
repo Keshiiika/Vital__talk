@@ -1,10 +1,3 @@
-# Real-Time Chat Website with MERN Stack, Socket.io, Redux Toolkit, and Tailwind CSS
-
-This is a real-time chat website that allows users to connect with each other and chat in real-time. It was built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), Socket.io, Redux Toolkit, and Tailwind CSS. 
-
-- If you liked it then give this Repository a Star⭐
-- Youtube Demo : <a target="__blanck" href="https://youtu.be/11oZj2jBhOE">Click On Me</a>
-
 ## Technologies Used
 
 - MERN stack (MongoDB, Express.js, React.js, and Node.js)
@@ -69,15 +62,3 @@ $ cd server
 $ npm install (to install server-side dependencies)
 & npm start (to start the server)
 ```
-
-
-## Contributing
-
-Contributions to this project are welcome! If you find a bug or want to add a feature, please submit an issue or a pull request. To contribute, follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature: `git checkout -b my-new-feature`
-3. Make changes and commit them: `git commit -m 'Add some feature'`
-4. Push your branch to your forked repository: `git push origin my-new-feature`
-5. Create a Pull Request
-
